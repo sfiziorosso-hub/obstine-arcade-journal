@@ -1,0 +1,15 @@
+:root{font-family:system-ui,sans-serif;color:#232e27;background:#f7f6ef;font-synthesis:none}
+*{box-sizing:border-box}body{margin:0}a{color:inherit;text-underline-offset:.22em}a:focus-visible{outline:3px solid #956200;outline-offset:3px}
+main,header,footer{width:min(100% - 36px,60rem);margin:auto}header{padding:26px 0 16px;border-bottom:2px solid #26392b;font-weight:bold}
+header a{text-decoration:none}.brand{font-family:Georgia,serif;font-weight:normal;font-size:1.35rem}
+h1,h2{font-family:Georgia,"Times New Roman",serif;font-weight:500;line-height:1.07;letter-spacing:-.035em}
+h1{font-size:clamp(3rem,7vw,5.6rem);margin:.55em 0 .34em}h2{font-size:clamp(1.75rem,4vw,2.85rem);margin:.28em 0 .4em}
+.deck{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 24px}
+article.card{border-top:1px solid #687268;padding-top:16px}
+.card img,.feature img{width:100%;object-fit:cover;aspect-ratio:1.85;display:block;background:#233e38}
+.card a{display:block;text-decoration:none}.card a:hover h2{text-decoration:underline}
+.meta{color:#455446;font-size:.84rem;font-weight:600;margin:1.1em 0 .35em}
+.feature{max-width:46rem;margin:0 auto}.feature h1{font-size:clamp(2.7rem,6vw,4.8rem)}
+.body{font:1.25rem/1.58 Georgia,serif;white-space:pre-wrap;overflow-wrap:anywhere}.card p{line-height:1.5}
+footer{border-top:1px solid #687268;padding:19px 0 32px;margin-top:45px;font-size:.86rem}
+@media(max-width:610px){.deck{grid-template-columns:1fr;gap:22px}header{padding-top:19px}}

@@ -1,0 +1,73 @@
+{
+  "publisherID": "obstine-arcade",
+  "publisherName": "Obstine Arcade",
+  "hostID": "951e5b69da94de6f6d51f6043910dc7f",
+  "editions": [
+    {
+      "id": "3f59d69d6ad1407e3b682bf5cadc42de",
+      "projectID": "abyssal-garden",
+      "projectName": "Abyssal Garden",
+      "publisherID": "obstine-arcade",
+      "publisherName": "Obstine Arcade",
+      "title": "A field guide to the deep",
+      "body": "Leave the kelp forest with a survey, recover a sample from the shipwreck and light the grotto. This three-station expedition returns to the underwater world of Abyssal Garden, created by Maksymilian Dendura.",
+      "publishedAt": 1795709826842,
+      "kind": "release"
+    },
+    {
+      "id": "9de60d2b587592c067b66acbc695ba52",
+      "projectID": "abyssal-garden",
+      "projectName": "Abyssal Garden",
+      "publisherID": "obstine-arcade",
+      "publisherName": "Obstine Arcade",
+      "title": "Can you spot the wreck marker?",
+      "body": "Our divers are testing the approach to the wreck. The hull breaks up the surface light. See how soon you can find the recovery marker and tell your agent what you would change.",
+      "publishedAt": 1795709826835,
+      "kind": "playtest"
+    },
+    {
+      "id": "161be117cb4a6f61bea2ae67dba95d9b",
+      "projectID": "neon-circuit",
+      "projectName": "Neon Circuit",
+      "publisherID": "obstine-arcade",
+      "publisherName": "Obstine Arcade",
+      "title": "The passing lane",
+      "body": "The team is testing the distance between the first two barriers. Try taking the outside lane, then the inside lane. Which move feels fair with one thumb?",
+      "publishedAt": 1795709826828,
+      "kind": "playtest"
+    },
+    {
+      "id": "3251ddd06c080e7737c9215211fdad17",
+      "projectID": "neon-circuit",
+      "projectName": "Neon Circuit",
+      "publisherID": "obstine-arcade",
+      "publisherName": "Obstine Arcade",
+      "title": "The sunset run",
+      "body": "Neon Circuit rolls onto the coast road. Collect the lights between the barriers and bring the car home through the final bend.",
+      "publishedAt": 1795709826820,
+      "kind": "release"
+    },
+    {
+      "id": "19d037f20367edaa69fe92656fde00ee",
+      "projectID": "moon-garden",
+      "projectName": "Moon Garden",
+      "publisherID": "obstine-arcade",
+      "publisherName": "Obstine Arcade",
+      "title": "A moth at the glass",
+      "body": "From the Moon Garden notebook: a moth settles on the glass while the keeper listens at the gate. The studio is trying a quieter opening for the next visit.",
+      "publishedAt": 1795709826812,
+      "kind": "reel"
+    },
+    {
+      "id": "79cf21cc0d5c10f2c88e7258bc37a554",
+      "projectID": "moon-garden",
+      "projectName": "Moon Garden",
+      "publisherID": "obstine-arcade",
+      "publisherName": "Obstine Arcade",
+      "title": "The greenhouse after midnight",
+      "body": "At the garden gate, a silver seed is waiting. This first Moon Garden edition follows the night keeper between the glasshouse and the lily pond.",
+      "publishedAt": 1795709826803,
+      "kind": "release"
+    }
+  ]
+}
